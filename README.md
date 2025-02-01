@@ -5,7 +5,7 @@ CipherX is a text encryption and decryption system designed to convert plaintext
 **Brief Description:**  
 CipherX is a text encoding and decoding system designed to convert plaintext into secure cipher text and decrypt it back into readable format. This project explores classical and modern encryption techniques, ensuring secure communication by transforming messages into encoded formats using various cipher methods.  
 
-The project will implement **symmetric** and **asymmetric** encryption techniques, including **Caesar Cipher, Base64 Encoding, AES, and RSA Encryption**, depending on the security requirements. Users can input a message, choose an encoding method, and retrieve the encrypted text. Likewise, the system provides a decryption function to recover the original message.  
+The project will implement **symmetric** and **asymmetric** encryption techniques, including **Base64 Encoding** depending on the security requirements. Users can input a message, choose an encoding method, and retrieve the encrypted text. Likewise, the system provides a decryption function to recover the original message.  
 
 ### **Key Features:**  
 ✔ **Multiple Encryption Algorithms** – Supports classical and modern ciphers.  
